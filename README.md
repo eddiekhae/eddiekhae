@@ -1,2 +1,2 @@
-# Edward-Agyapong
-This is the first page people will see when you come to my GitHub page
+<h1 align="center">Edward Agyapong</h1>
+<h3 align="center">Applied Microeconomist, Economic Historian, Researcher</h3>
