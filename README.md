@@ -1,5 +1,5 @@
 <h1 align="center">Edward Agyapong</h1>
-<h3 align="center">Applied Microeconomist • Economic Historian • Researcher</h3>
+<h3 align="center">Applied Microeconomist • Economic Historian • Data Analyst • Researcher</h3>
 <p align="center">
   <a href="mailto:agyapongedward16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
