@@ -1,12 +1,11 @@
-<!-- Main Profile Layout Table -->
 <table border="0">
   <tr>
     <!-- LEFT COLUMN: Photo and Basic Info -->
     <td width="35%" valign="top">
       
-      <!-- REPLACE THE LINK BELOW WITH YOUR OWN PHOTO URL -->
-      <img src="https://github.com/edwardagyapong/Edward-Agyapong/raw/main/WhatsApp%20Image%202026-08-27%20at%2009.00.48.jpeg<img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/dcb9c676-3498-4cfe-8427-80d9f595fca7" />
-/u/9919?s=400&v=4" width="100%" style="border-radius: 50%;" alt="Edward Agyapong" />
+      <!-- ⚠️ REPLACE THE LINK BELOW WITH YOUR IMAGE LINK ⚠️ -->
+      <img src="https://github.com/edwardagyapong/Edward-Agyapong/raw/main/WhatsApp%20Image%202026-08-27%20at%2009.00.48.jpeg<img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/6835f936-9a33-40fa-bc23-0d9ce8422a98" />
+" width="100%" style="border-radius: 50%;" alt="Edward Agyapong" />
       
       <h2>Edward Agyapong</h2>
       <p><b>Applied Microeconomist • Economic Historian • Data Analyst • Researcher</b></p>
@@ -20,9 +19,7 @@
         </a>
       </p>
       
-      <!-- You can add location or university here like the example image -->
       <p>🎓 Erasmus Mundus Scholar</p>
-      <p>📍 Europe</p>
       
     </td>
     
