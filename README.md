@@ -33,7 +33,7 @@ I hold a first-class honours degree in Economics from the Kwame Nkrumah Universi
 
 - 🚢 **Economic History** | [Steamboat and the Death of Distance](https://github.com/edwardagyapong/Steamboat-and-the-Death-of-Distance)
 
-- 🌍 **Innovation Economics** | [EU–Turkey Customs Union & Regional Integration Analysis](https://github.com/edwardagyapong/Platform-Work-in-Estonia)
+- 🌍 **Innovation Economics** | [Impacts and Future Directions of Platform Work in Estonia](https://github.com/edwardagyapong/Platform-Work-in-Estonia)
 
 - 🧵 **Trade Policy** | [NTBs and Textile Export Performance](https://github.com/edwardagyapong/NTBs-and-Textile-Export-Performance)
 
