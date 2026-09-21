@@ -28,3 +28,15 @@ I hold a first-class honours degree in Economics from the Kwame Nkrumah Universi
 - **Teaching & Research Assistant** — Kwame Nkrumah University of Science and Technology
 
 ---
+
+
+## 🛠️ Tech Stack
+
+![Stata](https://img.shields.io/badge/Stata-1A6A8B?style=flat&logo=stata&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
