@@ -19,7 +19,7 @@ I hold a first-class honours degree in Economics from the Kwame Nkrumah Universi
 
 ---
 
-## Background
+## 🎓 Background
 
 - **Erasmus Mundus Master's in Economics of Globalisation and European Integration (EGEI)** — Erasmus Mundus Joint Master Programme
 - **B.A. Economics (First Class Honours)** — Kwame Nkrumah University of Science and Technology (KNUST), Ghana
