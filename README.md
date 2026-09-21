@@ -11,7 +11,7 @@
 
 ### About Me
 
-My name is **Edward Agyapong**. I am currently a second-year master's student in Economics of Globalisation and European Integration and an Erasmus Mundus Scholarship holder. My research interest is in Applied Microeconomics at the intersection of Economic History, Development Economics, Innovation Economics, and Labour Economics. I am interested in pursuing a PhD in Economics with the aim of becoming an Economic Professor in Applied Microeconomics, contributing to policy-relevant research and teaching.
+My name is **Edward Agyapong**. I am currently a second-year master's student in Economics of Globalisation and European Integration and an Erasmus Mundus Scholarship holder. My research interest is in Applied Microeconomics at the intersection of Economic History, Development Economics, Innovation Economics, and Labour Economics. During my master's, I worked as a Research Assistant with the United Nations University Institute on Comparative Regional Integration Studies and the University of Tartu. I am interested in pursuing a PhD in Economics with the aim of becoming an Economic Professor in Applied Microeconomics, contributing to policy-relevant research and teaching.
 
 Before starting my master's in Economics, I was a teaching and research assistant at the Kwame Nkrumah University of Science and Technology (KNUST), where I contributed to research in Poverty and Inequality. I also taught Advanced Microeconomics at the undergraduate level to more than 250 students. The topics I taught include Game Theory, Utility Theory, Firm Behaviour, Economics of Information, Insurance, and Contract Theory.
 
