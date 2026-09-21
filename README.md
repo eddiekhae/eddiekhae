@@ -1,21 +1,13 @@
-<div align="center">
-  <!-- Centered Image: The width="200" controls the size of the photo -->
-  <img src="https://github.com/edwardagyapong/Edward-Agyapong/raw/main/WhatsApp%20Image%202026-08-27%20at%2009.00.48.jpeg" width="200" style="border-radius: 50%;" alt="Edward Agyapong" />
-  
-  <h1>Edward Agyapong</h1>
-  <h3>Applied Microeconomist • Economic Historian • Data Analyst • Researcher</h3>
-  
-  <p>
-    <a href="mailto:agyapongedward16@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/edward-agyapong-1b6a29248/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-</div>
-
----
+<h1 align="center">Edward Agyapong</h1>
+<h3 align="center">Applied Microeconomist • Economic Historian • Data Analyst • Researcher</h3>
+<p align="center">
+  <a href="mailto:agyapongedward16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/edward-agyapong-1b6a29248/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ### About Me
 
