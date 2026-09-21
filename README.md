@@ -3,9 +3,8 @@
     <!-- LEFT COLUMN: Photo and Basic Info -->
     <td width="35%" valign="top">
       
-      <!-- ⚠️ REPLACE THE LINK BELOW WITH YOUR IMAGE LINK ⚠️ -->
-      <img src="https://github.com/edwardagyapong/Edward-Agyapong/raw/main/WhatsApp%20Image%202026-08-27%20at%2009.00.48.jpeg<img width="468" height="67" alt="image" src="https://github.com/user-attachments/assets/6835f936-9a33-40fa-bc23-0d9ce8422a98" />
-" width="100%" style="border-radius: 50%;" alt="Edward Agyapong" />
+      <!-- Corrected Image Link -->
+      <img src="https://github.com/edwardagyapong/Edward-Agyapong/raw/main/WhatsApp%20Image%202026-08-27%20at%2009.00.48.jpeg" width="100%" style="border-radius: 50%;" alt="Edward Agyapong" />
       
       <h2>Edward Agyapong</h2>
       <p><b>Applied Microeconomist • Economic Historian • Data Analyst • Researcher</b></p>
