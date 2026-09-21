@@ -24,6 +24,7 @@ I hold a first-class honours degree in Economics from the Kwame Nkrumah Universi
 - **Erasmus Mundus Master's in Economics of Globalisation and European Integration (EGEI)** — Erasmus Mundus Joint Master Programme
 - **B.A. Economics (First Class Honours)** — Kwame Nkrumah University of Science and Technology (KNUST), Ghana
 - **Research Assistant** — United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS)
-- **Teaching & Research Experience** — Kwame Nkrumah University of Science and Technology
+- **Research Assistant** — University of Tartu
+- **Teaching & Research Assistant** — Kwame Nkrumah University of Science and Technology
 
 ---
