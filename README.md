@@ -16,3 +16,14 @@ My name is **Edward Agyapong**. I am currently a second-year master's student in
 Before starting my master's in Economics, I was a teaching and research assistant at the Kwame Nkrumah University of Science and Technology (KNUST), where I contributed to research in Poverty and Inequality. I also taught Advanced Microeconomics at the undergraduate level to more than 250 students. The topics I taught include Game Theory, Utility Theory, Firm Behaviour, Economics of Information, Insurance, and Contract Theory.
 
 I hold a first-class honours degree in Economics from the Kwame Nkrumah University of Science and Technology and was in the top 1% of my class of 230 students.
+
+---
+
+## Background
+
+- **Erasmus Mundus Master's in Economics of Globalisation and European Integration (EGEI)** — Erasmus Mundus Joint Master Programme
+- **B.A. Economics (First Class Honours)** — Kwame Nkrumah University of Science and Technology (KNUST), Ghana
+- **Research Assistant** — United Nations University Institute on Comparative Regional Integration Studies (UNU-CRIS)
+- **Teaching & Research Experience** — Kwame Nkrumah University of Science and Technology
+
+---
